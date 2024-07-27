@@ -11,7 +11,7 @@ class samp{
   }
 
   ~samp(){
-  cout<<"Destroying...\n";
+  cout<<"Destroying....\n";
   }
 
 };
