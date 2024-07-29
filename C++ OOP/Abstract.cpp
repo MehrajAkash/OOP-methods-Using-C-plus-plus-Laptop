@@ -15,7 +15,7 @@ public:
 class Rahim : public User{
 public:
     void message(){
-    cout<<"This is Rahim. \n";}
+    cout<<"This is  Rahim. \n";}
 };
 
 int main(){
