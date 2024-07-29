@@ -4,7 +4,7 @@ class A{
  private:
      int id=106;
      string name="Mehraj";
- public:
+ //public:
     friend class B;
 };
 class B{
